@@ -2,7 +2,7 @@
 
 # Algoritma program
 
-iketahui 3 buah bilangan bil1,bil2,bil3, akan dicari nilai yang terbesar.
+Diketahui 3 buah bilangan bil1,bil2,bil3, akan dicari nilai yang terbesar.
 
  1. Mulai
 
