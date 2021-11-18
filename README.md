@@ -1,4 +1,4 @@
-# program sederhana dengan input tiga buah bilangan, dan menampilkan bilangan terbesarnya.
+# Program sederhana dengan input tiga buah bilangan, dan menampilkan bilangan terbesarnya.
 
 # Algoritma program
 
@@ -32,3 +32,4 @@ iketahui 3 buah bilangan bil1,bil2,bil3, akan dicari nilai yang terbesar.
 
 # Screenshoot hasil output
 
+<img width="532" alt="screenshoot" src="https://user-images.githubusercontent.com/92905452/142390524-19f64a62-ca79-4efd-b694-7373356808d9.png">
